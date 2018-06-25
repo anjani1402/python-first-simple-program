@@ -1,0 +1,7 @@
+name = input("enter your name")
+age = input("enter your age")
+print("your name and age is: ",name, " ",age)
+choose = input("choose a random number")
+centuary = 100-int(age)
+print("your choosen number square is: ",int(choose)*int(choose))
+print("years to complete your centuary is: ",centuary)
